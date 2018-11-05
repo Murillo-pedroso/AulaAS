@@ -3,11 +3,11 @@ logando...
  git config --global user.email murillomonteirop@gmail.com
  git config --global user.name Murillo-pedroso
  git clone 'link'
- cd 'nome do repositÛrio'
+ cd 'nome do reposit√≥rio'
  
 *----*
 upando...
 
  git add .
- add commit -m 'coment·rio'
+ git commit -m 'coment√°rio'
  git push
